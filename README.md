@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript, NodeJS, ExpressJS in backend.
 - 🤔 I’m looking for help to learn Frontend technologies
 - 📫 How to reach me: you can contact me through Linkedin and Twitter.
+- 💼 any freelance work? do reach, [email](mailto:vmoksh.shah179@gmail.com) :)
