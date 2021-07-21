@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Access Control Product at Genea as Senior Software Enginner.
-- 🌱 I’m currently learning Javascript, NodeJS.
+- 🌱 I’m currently learning Javascript, NodeJS, ExpressJS in backend.
 - 🤔 I’m looking for help to learn Frontend technologies
 - 📫 How to reach me: you can contact me through Linkedin and Twitter.
